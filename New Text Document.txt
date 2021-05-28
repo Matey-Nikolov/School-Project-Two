@@ -1,0 +1,4 @@
+
+Това е за лед лентата използвана библиотека с код
+
+https://github.com/FastLED/FastLED/blob/master/examples/Blink/Blink.ino
