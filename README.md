@@ -1,4 +1,4 @@
-# School-Profect-Two
+# School-Project-Two
 
 Temp-code - These are the codes used to make my own.
 
