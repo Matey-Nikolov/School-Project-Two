@@ -1,6 +1,8 @@
 # School-Project-Two
+New_Temperature-LED.ino - this is the main program.
 
-Temp-code - These are the codes used to make my own.
+Used codes - these are the codes used to make my own.
 
-
-New_Temperature-LED.ino - This is the main program.
+Used libraries:
+https://github.com/FastLED/FastLED
+https://github.com/arduino-libraries/LiquidCrystal
