@@ -7,4 +7,6 @@ Used libraries:
 https://github.com/FastLED/FastLED, 
 https://github.com/arduino-libraries/LiquidCrystal
 
-Used materials: arduino, LED strip (model WS2801), LCD (Liquid Crystal Display), temperature sensor.
+Used materials: 
+
+arduino, LED strip (model WS2801), LCD (Liquid Crystal Display), temperature sensor.
